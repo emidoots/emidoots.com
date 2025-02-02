@@ -17,7 +17,7 @@ baseName = "feed"
 noClasses=false
 
 [params]
-mainSections = ['2024']
+mainSections = ['2024', '2025']
 rss = true
 debug_opengraph_images = false
 
