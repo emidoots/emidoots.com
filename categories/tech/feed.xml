@@ -1,4 +1,85 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>tech on emidoots</title><link rel="shortcut icon" href="/favicon.ico?v2"/><link rel="icon" href="/favicon.ico?v2"/><link>https://emidoots.com/categories/tech/</link><description>Recent content in tech on emidoots</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 29 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://emidoots.com/categories/tech/feed.xml" rel="self" type="application/rss+xml"/><item><title>[Poetic Justice] A reflection on corporate double speak (Elastic Search)</title><link>https://emidoots.com/2024/poetic-justice-a-reflection-on-corporate-double-speak-elastic-search/</link><pubDate>Thu, 29 Aug 2024 00:00:00 +0000</pubDate><guid>https://emidoots.com/2024/poetic-justice-a-reflection-on-corporate-double-speak-elastic-search/</guid><description>&lt;p>In case you missed it, &lt;a href="https://news.ycombinator.com/item?id=41394797">&amp;lsquo;Elasticsearch is open source, again&amp;rsquo;&lt;/a> - announced in their latest blog post, using a weird writing style where every paragraph begins with &lt;code>[D.N.A]&lt;/code>, &lt;code>[LOVE.]&lt;/code>, &lt;code>[Not Like Us]&lt;/code>, and other Kendrick Lamar songs. &lt;em>I&amp;rsquo;ll carry on their tradition and do the same I guess.&lt;/em>&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>tech on emidoots</title><link rel="shortcut icon" href="/favicon.ico?v2"/><link rel="icon" href="/favicon.ico?v2"/><link>https://emidoots.com/categories/tech/</link><description>Recent content in tech on emidoots</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sat, 01 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://emidoots.com/categories/tech/feed.xml" rel="self" type="application/rss+xml"/><item><title>'I want code, not politics!'</title><link>https://emidoots.com/2025/i-want-code-not-politics/</link><pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate><guid>https://emidoots.com/2025/i-want-code-not-politics/</guid><description>&lt;p>If you&amp;rsquo;ve been involved in tech, you probably have heard statements like these:&lt;/p>
+&lt;p>&lt;em>&amp;ldquo;Why do they feel the need to put politics into the README?&amp;rdquo;&lt;/em>&lt;/p>
+&lt;p>&lt;em>&amp;ldquo;Why can&amp;rsquo;t $CONFERENCE just be about tech and not activism?&amp;rdquo;&lt;/em>&lt;/p>
+&lt;p>&lt;em>&amp;ldquo;I just want tech/code, not politics!&amp;rdquo;&lt;/em>&lt;/p>
+&lt;h2 id="do-politicalactivism-topics-derail-communities-away-from-focusing-on-tech">Do political/activism topics derail communities away from focusing on tech?&lt;/h2>
+&lt;p>&lt;em>It certainly can.&lt;/em> To date, in the &lt;a href="https://machengine.org/">Mach&lt;/a> game engine community we&amp;rsquo;ve had rule(3):&lt;/p>
+&lt;blockquote>
+&lt;ul>
+&lt;li>No politics/heated topics that derail the community, we&amp;rsquo;re here to make games and have fun&lt;/li>
+&lt;/ul>
+&lt;/blockquote>
+&lt;p>This rule has been in place for one simple fact: I do not have the &lt;em>time&lt;/em> or &lt;em>mental bandwidth&lt;/em> to moderate hundreds of people who will engage from wildly different backgrounds, often in bad faith, to contribute to a conversation that will &lt;em>harm and take away&lt;/em> from all the good technical work people in our community are doing. It&amp;rsquo;s easier for me to just say &amp;rsquo;this isn&amp;rsquo;t the place for politics or heated topics, you will be removed from the community if you bring that discussion here.'&lt;/p>
+&lt;p>This rule is equal to other rules we have:&lt;/p>
+&lt;blockquote>
+&lt;ul>
+&lt;li>Death threats, edgy jokes or questionable posts, etc. will result in a warning or ban.&lt;/li>
+&lt;li>No obscene/offensive/crude/NSFW content, including usernames and profile pictures.&lt;/li>
+&lt;/ul>
+&lt;/blockquote>
+&lt;p>Edgy jokes? NSFW content? Hey, I enjoy some of that - but this community is simply not the place for it: this community is for making games, go somewhere else if you want that.&lt;/p>
+&lt;p>(Author&amp;rsquo;s note: &lt;em>please &lt;strong>do continue reading&lt;/strong>&lt;/em>)&lt;/p>
+&lt;h2 id="can-tech-and-politicsactivism-be-seperate">Can tech and politics/activism be seperate?&lt;/h2>
+&lt;p>Many reading this I believe will argue &amp;lsquo;yes, just like you said above: let&amp;rsquo;s keep politics out of it and only focus on tech!&amp;rsquo; - but here&amp;rsquo;s where you lose the mark.&lt;/p>
+&lt;p>Politics and activism fundamentally affect people who work on tech. In major ways. Let&amp;rsquo;s look at some recent examples..&lt;/p>
+&lt;h2 id="a-quick-story-fallout-nuevo-méxico">A quick story: &amp;lsquo;Fallout: Nuevo México&amp;rsquo;&lt;/h2>
+&lt;p>Recently, someone has been developing a mod for Fallout: New Vegas called &amp;lsquo;Fallout: Nuevo México&amp;rsquo; which would rework the entire game to take place in México city. Impressive work, beautiful artwork, you can watch the trailer here (click to open YouTube):&lt;/p>
+&lt;p>&lt;a href="https://www.youtube.com/watch?v=aev5IH12TpU">&lt;img src="https://emidoots.com/img/2025/fallout-nuevo-mexico.jpg" alt="">&lt;/a>&lt;/p>
+&lt;p>Unfortunately, that game &lt;a href="https://www.eurogamer.net/ambitious-fallout-nuevo-mexico-mod-cancelled-to-prioritise-developers-mental-health-and-face-reality">was cancelled&lt;/a> &amp;rsquo;to prioritise developer&amp;rsquo;s mental health and &amp;ldquo;face reality&amp;rdquo;&amp;rsquo; - so what happened?&lt;/p>
+&lt;p>&lt;a href="https://www.reddit.com/r/Asmongold/comments/1ie8jm1/the_creator_of_a_big_fallout_new_vegas_mod_called/">Popular/toxic gaming communities are proclaiming&lt;/a> that the real reason the game was cancelled is because &lt;strong>internet trolls submitted a tip to ICE to get the developer deported&lt;/strong>. Whether true or not, one thing remains true: the developer didn&amp;rsquo;t push their agenda in their work, the game trailer didn&amp;rsquo;t contain political statements about supporting immigrants - it was just a cool game. But politics &lt;em>came for them anyway&lt;/em>, and eliminated their ability to continue developing the project further.&lt;/p>
+&lt;h2 id="in-defense-of-the-free-software-movement">&amp;lsquo;In Defense of the Free Software Movement&amp;rsquo;&lt;/h2>
+&lt;p>Recently Andrew Kelley (creator of the Zig programming language) gave a passionate keynote speech titled &lt;a href="https://www.youtube.com/live/zYAif5PhhoQ?si=wyBrtKc9i6PIZrY6&amp;amp;t=7104">&amp;lsquo;In Defense of the Free Software Movement&amp;rsquo;&lt;/a> at Handmade Cities (the largest indie conferences for low-level programmers.)&lt;/p>
+&lt;p>In the talk, Andrew gave his perspective that open source software is better than proprietary software if your goal is to pursue the Handmade Manifesto and advocated for forming software developer unions - which was received critically: for some it was &amp;rsquo;too political or too activist for a tech conference&amp;rsquo;, for others it was &amp;lsquo;downright communist&amp;rsquo;.&lt;/p>
+&lt;p>I bring this up because, to me, this is an example of how there is a desire to seperate politics and tech from people, in a way that is unrealistic.&lt;/p>
+&lt;p>Whether you agree with his take or not doesn&amp;rsquo;t matter here: if you are part of a free software movement, attending a conference whose focus is indie developers, and those developers being able to find success as software developers independent from big tech companies.. then I think it&amp;rsquo;s a bit hypocritical to suggest such a talk is &lt;em>entirely out of place&lt;/em>, especially as a keynote speech which is often expected to be more visionary / high level.&lt;/p>
+&lt;p>It&amp;rsquo;s like going to a conference about cooking off-grid, and then being upset that a keynote speech suggests we should be less reliant on big grocery store chains: sure, it might not be about the technicalities and logistics of cooking off-grid specifically, but it&amp;rsquo;s not exactly &lt;em>completely off-topic&lt;/em> given the conference and audience.&lt;/p>
+&lt;h2 id="dealing-with-my-own-personal-experience">Dealing with my own personal experience&lt;/h2>
+&lt;p>Recently I was &lt;a href="https://emidoots.com/2024/coming-out">forced to come out publicly as transgender&lt;/a> - something I had never planned to do, a factoid about me that I had planned to take to my grave. I was forced to unite my online identity as a software engineer with my personal identity offline, because the political situation where I live has invaded my basic ability to exist as a human and every day more and more aggressively, my rights, freedoms, and liberties are being taken away. Not just by people who think I should not be able to exist, but also by those who stand by pretending it isn&amp;rsquo;t happening - or refusing to defend the defenseless. People &amp;lsquo;avoiding politics&amp;rsquo; &lt;em>have personally and directly harmed my ability to exist as a human already today.&lt;/em>&lt;/p>
+&lt;p>And so I look at that Mach community rule(3) we&amp;rsquo;ve had forever:&lt;/p>
+&lt;blockquote>
+&lt;p>No politics/heated topics that derail the community, we&amp;rsquo;re here to make games and have fun&lt;/p>
+&lt;/blockquote>
+&lt;p>Here&amp;rsquo;s the problem with this rule: although it exists purely to aid me in moderating the community&amp;rsquo;s behavior, it also can be seen as standing as:&lt;/p>
+&lt;ul>
+&lt;li>A podium for others to argue &amp;lsquo;politics should stay out of tech projects&amp;rsquo; because &amp;lsquo;other cool projects like Mach do this in their communities&amp;rsquo;&lt;/li>
+&lt;li>A podium for people to say people like &lt;em>me&lt;/em> should stay out of tech because when we are visible, we&amp;rsquo;re &amp;lsquo;bring politics into it&amp;rsquo;.&lt;/li>
+&lt;li>A podium for people to ultimately argue &lt;em>people like me shouldn&amp;rsquo;t exist online or offline&lt;/em>.&lt;/li>
+&lt;/ul>
+&lt;p>Politics and activism affect people, and people make tech: you cannot unlink the two.&lt;/p>
+&lt;h2 id="lets-just-agree-to-disagree-on-politics">&amp;ldquo;Let&amp;rsquo;s just agree to disagree on politics&amp;rdquo;&lt;/h2>
+&lt;p>I so wish we could &amp;lsquo;agree to disagree&amp;rsquo;, but that&amp;rsquo;s not what is being said to people like me. Instead, what is being said to people like me is:&lt;/p>
+&lt;blockquote>
+&lt;p>Let&amp;rsquo;s just agree to disagree on politics..&lt;/p>
+&lt;p>..AND your fundamental human rights
+..AND please don&amp;rsquo;t complain or make noise when we start leveraging our political power to take away those rights
+..OR your ability to access medical care
+..OR ability to see a doctor
+..OR ability to use the bathroom
+..OR to be eligible for programming jobs in the government or contractors
+..OR to have children
+..OR to exist in public spaces at all&lt;/p>
+&lt;p>..thanks! So happy we can just agree to disagree here amicably!&lt;/p>
+&lt;/blockquote>
+&lt;p>If we&amp;rsquo;ve ever had the ability to say &lt;em>let&amp;rsquo;s just agree to disagree on politics&lt;/em>, we&amp;rsquo;ve have certainly lost it in today&amp;rsquo;s era.&lt;/p>
+&lt;h2 id="a-duty">A duty&lt;/h2>
+&lt;p>A duty has been &lt;em>forced upon me&lt;/em> by our political environment to stand up for and represent others who cannot do so for themselves, using whatever little power it is that I may hold. And so with that, what once stood as rule(3) in the Mach community:&lt;/p>
+&lt;blockquote>
+&lt;p>No politics/heated topics that derail the community, we&amp;rsquo;re here to make games and have fun&lt;/p>
+&lt;/blockquote>
+&lt;p>Now stands as:&lt;/p>
+&lt;blockquote>
+&lt;p>No politics/heated topics that derail the community, we&amp;rsquo;re here to make games and have fun. Fascists can go f*k themselves, we support LGBTQ+ and minorities here and their existence is not political.&lt;/p>
+&lt;/blockquote>
+&lt;p>And &lt;a href="https://github.com/hexops/mach/blob/main/README.md">our README on GitHub&lt;/a> now features this similar statement:&lt;/p>
+&lt;blockquote>
+&lt;p>&lt;strong>We&amp;rsquo;re here to make games and have fun, so please help keep the community focused on that.&lt;/strong> No politics/heated topics are allowed. Unfortunately, the political landscape today makes it such that we must also state as part of this: fascists can go f*k themselves, we support LGBTQ+ and minorities here - their existence is not political.&lt;/p>
+&lt;/blockquote>
+&lt;p>&lt;strong>In questioning whether an open source software engineer like me should be able to have the right to piss in a toilet, you&amp;rsquo;ve made all of society one big toilet that now everyone is pissing in - and now you have to live with the consequence of that as I do.&lt;/strong>&lt;/p>
+&lt;p>With that, I leave you my signature for all spicy thoughts:&lt;/p>
+&lt;div style="display: flex; flex-direction: column; align-self: center;">
+&lt;img src="https://emidoots.com/img/2025/emi-feb.jpg" style="width: 250px;">
+&lt;p>&lt;em>Respectfully, fuck you and peace motherfuckers.&lt;/em>&lt;br>~Emi (she/her)&lt;/p>
+&lt;/div></description></item><item><title>[Poetic Justice] A reflection on corporate double speak (Elastic Search)</title><link>https://emidoots.com/2024/poetic-justice-a-reflection-on-corporate-double-speak-elastic-search/</link><pubDate>Thu, 29 Aug 2024 00:00:00 +0000</pubDate><guid>https://emidoots.com/2024/poetic-justice-a-reflection-on-corporate-double-speak-elastic-search/</guid><description>&lt;p>In case you missed it, &lt;a href="https://news.ycombinator.com/item?id=41394797">&amp;lsquo;Elasticsearch is open source, again&amp;rsquo;&lt;/a> - announced in their latest blog post, using a weird writing style where every paragraph begins with &lt;code>[D.N.A]&lt;/code>, &lt;code>[LOVE.]&lt;/code>, &lt;code>[Not Like Us]&lt;/code>, and other Kendrick Lamar songs. &lt;em>I&amp;rsquo;ll carry on their tradition and do the same I guess.&lt;/em>&lt;/p>
 &lt;p>&lt;em>[Bitch, Don&amp;rsquo;t Kill My Vibe]&lt;/em> because I have no vested interest here; I don&amp;rsquo;t use Elastic Search, it&amp;rsquo;s not really my cup of tea - the product doesn&amp;rsquo;t appeal to me - so I don&amp;rsquo;t really care what happens to it as software. I&amp;rsquo;m more interested in the corporate double-speak in what they wrote, and their motivations for proclaiming to be &amp;lsquo;open source&amp;rsquo; again.&lt;/p>
 &lt;blockquote>
 &lt;p>Open source is in my DNA. It is in Elastic DNA. Being able to call Elasticsearch Open Source again is pure joy.
