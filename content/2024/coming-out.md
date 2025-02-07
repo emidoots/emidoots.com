@@ -1,5 +1,5 @@
 ---
-author: "Stephen Gutekanst"
+author: "Emi"
 title: "Coming out"
 date: "2024-11-06"
 categories:
@@ -8,6 +8,14 @@ draft: false
 images: ["/img/2024/emi_new.jpg"]
 description: "Have you ever wondered what a professional silicon valley software engineer hides for 15 years of their life? In this article you can find out."
 ---
+
+# Important
+
+**Coworker? Friend? Peer? See my [about page](/about) instead!**
+
+The below article is kept for historical purposes as a statement, but I am an evolving person so some of what is written below may be inaccurate today. :)
+
+## Coming out
 
 For the past 15 years of my life, I haven't been able to address or speak to a core part of who I was born as.
 

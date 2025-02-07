@@ -1,5 +1,5 @@
 ---
-author: "Emi Gutekanst"
+author: "Emi"
 title: "'I want code, not politics!'"
 date: "2025-02-01"
 categories:
