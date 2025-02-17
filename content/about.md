@@ -10,21 +10,7 @@ description: "About me - everything you want to know but are afraid to ask"
 
 <img src="/android-chrome-512x512.png" style="width: 200px; float: left; align-self: start !important; margin-left: 1rem;">
 
-Hello, my name is **Emi** (pronounced like 'Emmy'); I was born with a different identity and hid myself from all family/friends/coworkers for ~15 years of my life before coming out publicly as a girl following the 2024 US election results.
-
-This page is a tl;dr for coworkers, professional peers, etc. who want to quickly understand how to respect me.
-
-## What are your pronouns?
-
-She/her.
-
-**If you slip up, you don't need to apologize or anything** - I understand that many people have never interacted with a trans person before, and I am very understanding of where you are coming from. As long as you try your best to respect me, I'll appreciate you for that! =)
-
-I also accept they/them pronouns, in case that is more comfortable for anyone interacting with me.
-
-## Where can I read more about your journey?
-
-I wrote about it in [this blog post](https://emidoots.com/2024/coming-out/) (warning: contains mild profanity and political statements.)
+Hello, my name is **Emi** (pronounced like 'Emmy') (she/her)
 
 ## Where can I find you?
 
@@ -33,7 +19,5 @@ You can find me doing open source work on [GitHub](https://github.com/emidoots),
 I [write about game development](https://devlog.hexops.com/), am building [Mach, the Zig game engine](https://machengine.org/), and when I'm not working with computers you can usually find me wrangling my [small cat shelter's worth of kittos](/categories/kittos) - or [gardening](/categories/gardening).
 
 ## What is this website?
-
-This website's purpose is to replace my old usage of Twitter, so now you can have an RSS feed to my dumb ideas instead.
 
 This is my 'less professional' personal blog, you can find [my professional technical writing here](https://devlog.hexops.com).
