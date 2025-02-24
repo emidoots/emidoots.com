@@ -8,7 +8,7 @@ description: "About me - everything you want to know but are afraid to ask"
 
 ## About me
 
-<img src="/android-chrome-512x512.png?v2" style="width: 200px; float: left; align-self: start !important; margin-left: 1rem;">
+<img src="/android-chrome-512x512.png?v4" style="width: 200px; float: left; align-self: start !important; margin-left: 1rem;">
 
 Hello, my name is **Emi** (pronounced like 'Emmy') (she/her)
 
