@@ -1,0 +1,33 @@
+baseURL = 'https://emidoots.com'
+languageCode = 'en-us'
+title = "emidoots"
+theme = "minimal"
+paginate = 5
+disablePathToLower=true
+
+[markup.goldmark.renderer]
+unsafe = true
+
+[outputFormats]
+[outputFormats.RSS]
+mediatype = "application/rss"
+baseName = "feed"
+
+[markup.highlight]
+noClasses=false
+
+[params]
+mainSections = ['2024', '2025']
+rss = true
+debug_opengraph_images = false
+
+[taxonomies]
+category = "categories"
+
+[mediaTypes]
+  [mediaTypes.'video/mp4']
+    suffixes = ['mp4']
+  [mediaTypes.'video/ogg']
+    suffixes = ['ogv']
+  [mediaTypes.'video/webm']
+    suffixes = ['webm']
