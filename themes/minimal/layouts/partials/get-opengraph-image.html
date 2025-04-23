@@ -9,10 +9,10 @@
     <!-- Draw topic in top-left of image -->
     {{ $textOptions = dict 
         "color" "#000"
-        "size" 60
+        "size" 90
         "lineSpacing" 10
         "x" 60 "y" 10
-        "font" (resources.Get "/opengraph/Orbitron-ExtraBold.ttf")
+        "font" (resources.Get "/Exo_2/static/Exo2-ExtraBold.ttf")
     }}
     {{ $featured = $featured | images.Filter (images.Text $text $textOptions) }}
 
@@ -26,18 +26,18 @@
     {{ if ge (len $text) 20 }}
         {{ $textOptions = dict 
             "color" "#000"
-            "size" 90
+            "size" 120
             "lineSpacing" 10
             "x" 440 "y" 100
-            "font" (resources.Get "/opengraph/Orbitron-ExtraBold.ttf")
+            "font" (resources.Get "/Exo_2/static/Exo2-ExtraBold.ttf")
         }}
     {{ else }}
         {{ $textOptions = dict 
             "color" "#000"
-            "size" 120
+            "size" 150
             "lineSpacing" 10
             "x" 360 "y" 40
-            "font" (resources.Get "/opengraph/Orbitron-ExtraBold.ttf")
+            "font" (resources.Get "/Exo_2/static/Exo2-ExtraBold.ttf")
         }}
     {{ end }}
     {{ $featured = $featured | images.Filter (images.Text $text $textOptions) }}
