@@ -5,7 +5,7 @@ description: "emidoots' music - nature-blended piano, violin, and other instrume
 draft: false
 rss_ignore: true
 images: []
-short_title: "Music by emidoots"
+short_title: "nature blended music by me ^^"
 ---
 
 Here you can find my music ^^' - nature-blended piano, violin, and other instrumentals pleasing to OCD / ADHD coded brains.

@@ -3,7 +3,8 @@ date: 2025-07-06
 type: section
 rss_ignore: true
 images: [""]
-description: "About me"
+description: "About Emi"
+short_title: "About Emi"
 ---
 
 ## About me

@@ -4,5 +4,5 @@ description: "Software engineer. Pianist, gardener, and keeper of kittos."
 draft: false
 rss_ignore: true
 images: []
-short_title: "Software engineer. Pianist, gardener, and keeper of kittos."
+short_title: "Unhinged girlie, 12x coder, pianist & gardener"
 ---
